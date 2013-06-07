@@ -4,3 +4,17 @@
 *.jar
 *.war
 *.ear
+
+bin/
+
+*.tmp
+*.bak
+*.swp
+*~.nib
+
+.settings/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+
