@@ -5,16 +5,8 @@
 *.war
 *.ear
 
-bin/
-
-*.tmp
-*.bak
-*.swp
-*~.nib
-
+target/
 .settings/
-
-# Locally stored "Eclipse launch configurations"
-*.launch
-
+.classpath
+.project
 
