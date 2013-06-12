@@ -1,4 +1,4 @@
 turbo-dangerzone
 ================
 
-Simple Example of Message Passing Using ActiveMQ.
+Simple Example of a Maven Project.
