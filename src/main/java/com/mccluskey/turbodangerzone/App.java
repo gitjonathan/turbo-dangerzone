@@ -24,7 +24,7 @@
  * @author Jonathan McCluskey <jonathan.m.mccluskey@gmail.com>
  */
 
-package com.mccluskey.messagepassing;
+package com.mccluskey.turbodangerzone;
 
 /**
  * Hello world!
