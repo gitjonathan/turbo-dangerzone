@@ -16,6 +16,18 @@
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>3.8.1</version>
+      <configuration>
+        <archive>
+          <manifest>
+            <mainClass>App</mainClass>
+            <packageName>com.mccluskey.turbodangerzone</packageName>
+          </manifest>
+          <manifestEntries>
+            <mode>development</mode>
+            <url>${pom.url}</url>
+          </manifestEntries>
+        </archive>
+      </configuration>
       <scope>test</scope>
     </dependency>
   </dependencies>
