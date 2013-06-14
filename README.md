@@ -6,7 +6,7 @@ Simple Example of a Maven Project.
 Instructions
 ===
 
- - [Install and Run Maven]
+ - [Install and Run Maven](https://gist.github.com/gitjonathan/5778843)
 
 ```
 git clone https://github.com/gitjonathan/turbo-dangerzone.git
