@@ -35,4 +35,8 @@ public class App
     {
         System.out.println( "Hello World, Maven!" );
     }
+    
+    public int coolAddFeature(int x, int y) {
+    	return x + y;
+    }
 }

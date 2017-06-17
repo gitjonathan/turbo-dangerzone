@@ -26,6 +26,8 @@
 
 package com.mccluskey.messagepassing;
 
+import com.mccluskey.turbodangerzone.App;
+
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
@@ -61,4 +63,11 @@ public class AppTest
     {
         assertTrue( true );
     }
+    
+    public void testCoolAddFeature() {
+    	App app = new App();
+        assertEquals( app.coolAddFeature(2, 2), 4);
+    }
+    
+    
 }
